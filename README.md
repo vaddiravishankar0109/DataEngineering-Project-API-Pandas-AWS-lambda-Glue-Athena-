@@ -50,5 +50,3 @@ Here’s the outline for a flow diagram based on the project's architecture:
 
 ---
 
-
-Feel free to use this format and let me know if you'd like assistance creating a visual flow diagram for the architecture!
